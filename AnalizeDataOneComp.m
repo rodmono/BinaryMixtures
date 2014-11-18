@@ -1,6 +1,6 @@
 %%%%%%%%%%%%
 % ----------
-% Generating a matrix m containing the state of the system 
+% Generating a file containing the state of the system 
 % ----------
 % 1 = Flow Aligning
 % 2 = Tumbling
